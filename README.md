@@ -18,6 +18,8 @@ https://aivideo.hunyuan.tencent.com/
 
 https://github.com/user-attachments/assets/a8d134b5-5212-49ab-9612-1c477cf21aa6
 
+https://github.com/user-attachments/assets/1e7e05a6-68e5-45f8-aec1-aea9c3bd0683
+
 <img width="1914" alt="Screenshot 2024-12-03 091904" src="https://github.com/user-attachments/assets/8f1f4faa-8eae-4dd6-a1ed-5638dd248c60">
 <img width="1919" alt="Screenshot 2024-12-03 092551" src="https://github.com/user-attachments/assets/3d28e2f6-7542-428a-a01c-bd0f0f47aba9">
 
