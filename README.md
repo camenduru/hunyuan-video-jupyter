@@ -15,6 +15,8 @@ https://github.com/Tencent/HunyuanVideo
 https://aivideo.hunyuan.tencent.com/
 
 ### 🖼 Output
+<img width="1914" alt="Screenshot 2024-12-03 091904" src="https://github.com/user-attachments/assets/8f1f4faa-8eae-4dd6-a1ed-5638dd248c60">
+<img width="1919" alt="Screenshot 2024-12-03 092551" src="https://github.com/user-attachments/assets/3d28e2f6-7542-428a-a01c-bd0f0f47aba9">
 
 ### 🏢 Sponsor
 https://modelslab.com
