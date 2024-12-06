@@ -7,6 +7,8 @@
 | Colab | Info
 | --- | --- |
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/hunyuan-video-jupyter/blob/main/hunyuan_video_jupyter.ipynb) | hunyuan_video_jupyter (Pro Colab ~59GB 😭 A100 80GB)
+[![open_in_runpod_small](https://github.com/user-attachments/assets/620c622a-fb34-4a0a-bd0c-16ff195c90e9)](https://runpod.io/console/deploy?template=5on3ylop85&ref=iqi9iy8y) | hunyuan_video_runpod
+
 
 ### 🧬 Code
 https://github.com/Tencent/HunyuanVideo
