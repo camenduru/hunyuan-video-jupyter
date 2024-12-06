@@ -2,8 +2,8 @@
 🔥 Please join our discord server https://discord.gg/k5BwmmvJJU <br />
 🥳 Please join my patreon community https://patreon.com/camenduru <br />
 
-
-https://video.twimg.com/ext_tw_video/1864600208711024640/pu/vid/avc1/1920x1080/YnUyrUn_UXIgFi19.mp4?tag=14
+### 📋 Runpod Tutorial
+https://x.com/camenduru/status/1864602316373938350
 
 ### 🍊 Jupyter Notebook
 
